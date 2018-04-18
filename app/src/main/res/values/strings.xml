@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Download Notification</string>
+    <string name="download">download</string>
+    <string name="download_complete">File Download Complete</string>
+</resources>
